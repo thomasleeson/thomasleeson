@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomasleeson
-- 👀 I’m interested in coding and the gym
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning a Full stack development course
 - 💞️ I’m looking to collaborate on anything to further my knowledge
 - 📫 reach me via linked on www.linkedin.com/in/tomleeson01
